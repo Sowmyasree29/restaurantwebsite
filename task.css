@@ -1,0 +1,280 @@
+.whole{
+    /* border:5px solid orange; */
+    display:flex;
+    justify-content:center;
+    /* background-color:black; */
+   
+    
+}
+.main{
+    height:2300px;
+    width:1200px;
+   
+
+}
+.main1{
+    height:100px;
+    width:1200px;
+    background-color:white;
+    z-index:1;
+   
+    
+    /* border:1px solid violet; */
+}
+.nav{
+    /* border:1px solid black; */
+    height:60px;
+    display:flex;
+    background-color:white;
+    justify-content:space-between;
+    width:1200px;
+    position:fixed;
+    top:0px;
+    z-index:1;
+   
+    
+    
+}
+/* .logo{
+    border:1px solid black;
+} */
+.logo1{
+   margin-left:20px;
+   font-size:25px;
+}
+.logo2{
+   
+    font-size:25px;
+ }
+.logo3{
+    margin-right:20px;
+    font-size:25px;
+ }
+.section{
+    /* border:2px solid blue; */
+    height:1100px;
+  
+   
+  
+}
+.first{
+    /* border:2px solid palevioletred; */
+    height:380px;
+    display:flex;
+    top:120px;
+    justify-content:space-around;
+ 
+   
+  
+
+
+}
+.image{
+    border:1px solid black;
+    height:350px;
+    width:250px;
+    position:relative;
+    top:20px;
+    
+}
+img{
+    height:350px;
+    width:250px;
+
+}
+.matter{
+    height:120px;
+    display:flex;
+    justify-content:space-around;
+}
+.matter1{
+    /* border:1px solid red; */
+    height:120px;
+    width:250px;
+    margin-top:0px;
+    display:flex;
+    flex-direction:column;
+    
+   
+}
+
+.line1{
+    /* border:1px solid black; */
+    font-size:20px;
+    margin-left:20px;
+    margin:5px;
+   
+}
+.line2{
+    /* border:1px solid black; */
+    font-size:20px;
+    margin-left:50px;
+    /* margin:10px; */
+}
+
+.line3{
+    /* border:1px solid black; */
+    margin-top:15px;
+}
+
+.second{
+    /* border:1px solid black; */
+    height:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.nbr{
+    /* border:1px solid black; */
+    height:30px;
+    width:30px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.nbr:hover{
+    background-color:black;
+    color:white;
+}
+.arrow{
+    margin:10px;
+}
+.section1{
+    height:600px;
+    /* border:7px solid rgb(108, 21, 93); */
+    /* display:flex;
+    flex-direction:column;
+    justify-content:center; */
+    display:flex;
+    flex-direction:column;
+  
+    align-items:center;
+  
+}
+.secf{
+    font-size:35px;
+}
+.seci{
+    height:500px;
+    width:800px;
+    margin-top:30px;
+    /* border:1px solid black; */
+}
+
+.section2{
+    /* border:1px solid black; */
+    height:280px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+}
+.secp1{
+    /* border:1px solid black; */
+    height:50px;
+    font-size:30px;
+
+}
+.secp2{
+    /* border:1px solid black; */
+    height:50px;
+    font-size:20px;
+}
+.secp3{
+    /* border:1px solid black; */
+    height:40px;
+}
+.section3{
+    /* border:7px solid blueviolet; */
+    height:500px;
+    /* margin-top:60px; */
+    width:1200px;
+    display:flex;
+   
+
+    
+}
+.l1{
+    /* border:1px solid black; */
+    width:400px;
+    height:500px;
+    
+}
+.lcd1{
+    font-size:20px;
+}
+.lcd2{
+    margin-top:35px;
+}
+.l2{
+/* 
+    border:1px solid black; */
+    width:400px;
+    height:500px;
+   
+
+}
+.l3{
+    /* border:1px solid black; */
+    width:400px;
+    height:500px;
+   
+}
+.lcd4{
+    font-size:20px;
+   
+}
+.lcd5{
+    /* border:1px solid black; */
+    height:50px;
+    display:flex;
+    margin-top:35px;
+
+   
+
+}
+
+.limg1{
+    /* border:1px solid black; */
+    height:50px;
+    width:50px;
+    margin-left:15px;
+   
+}
+.limg2{
+    /* border:1px solid black; */
+    height:50px;
+    
+    width:120px;
+    margin-left:15px;
+   
+
+}
+.lcd6{
+    /* border:1px solid black; */
+    height:50px;
+    display:flex;
+    margin-top:35px;
+    margin-top:30px;
+}
+
+.boxes{
+    border1px solid black;
+    height:40px;
+}
+.boxes1{
+    margin-top:40px;
+}
+span{
+    border:1px solid black;
+    color:white;
+    background-color:rgb(102, 99, 99);
+    margin-top:20px;
+}
+.sp1{
+    background-color:black;
+}
+
+
